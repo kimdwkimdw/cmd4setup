@@ -1,0 +1,1 @@
+echo "cmd4setup success" >> ~/cmd_for_setup.test
